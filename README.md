@@ -1,5 +1,6 @@
 
 **FacialRecognitionAttendance**
+
 **_Facial Recognition-Based Attendance System_**
 
 This repository uses facial recognition technology to automate the process of employee attendance using video footage. The system can recognize faces, match them with employee records, and mark attendance accordingly.
