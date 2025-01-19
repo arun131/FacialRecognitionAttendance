@@ -1,6 +1,4 @@
 
-Here’s an improved version of your README with clearer instructions and better formatting:
-
 **FacialRecognitionAttendance**
 **_Facial Recognition-Based Attendance System_**
 
